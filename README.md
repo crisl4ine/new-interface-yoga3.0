@@ -1,7 +1,7 @@
 # new-interface-yoga3.0
 
  
- <img src="./interface-yoga" alt="interface-app"> 
+ <img src="./interface-yoga.png">
 
 >Resultado do Projeto Yoga.
 
@@ -25,7 +25,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./avatar.jpeg" width="150px;" alt="Foto da Crislaine"/><br>
+        <img src="./avatar.jpg" width="150px;" alt="Foto da Crislaine"/><br>
         <sub>
           <b>Crislaine Siqueira</b>
         </sub>
